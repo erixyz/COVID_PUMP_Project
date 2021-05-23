@@ -1,0 +1,316 @@
+rank,county,state,pc_income,pop,households
+1,New York,New York,62498,1605272,736192
+2,Arlington,Virginia,62018,214861,94454
+3,Falls Church,Virginia,59088,12731,5020
+4,Marin,California,56791,254643,102912
+5,Alexandria,Virginia,54608,143684,65369
+6,Pitkin,Colorado,51814,17173,7507
+7,Los Alamos,New Mexico,51044,17979,7590
+8,Fairfax,Virginia,50532,1101071,389908
+9,Hunterdon,New Jersey,50349,127047,46816
+10,Borden,Texas,50042,649,225
+11,Montgomery,Maryland,49038,989474,360563
+12,Morris,New Jersey,48814,495261,179665
+13,Fairfield,Connecticut,48721,926233,332655
+14,San Francisco,California,48486,817501,345344
+15,Howard,Maryland,48172,293821,106142
+16,Westchester,New York,47984,956283,343561
+17,Somerset,New Jersey,47803,326207,115531
+18,Nantucket,Massachusetts,47331,10224,4069
+19,Loudoun,Virginia,46565,326477,106997
+20,North Slope,Alaska,46457,9484,1990
+21,San Mateo,California,45732,729543,257941
+22,Kalawao,Hawaii,45515,71,46
+23,Washington City,District of Columbia,45290,619371,263649
+24,Goochland,Virginia,45039,21565,8058
+25,Norfolk,Massachusetts,44692,677296,257451
+26,Fairfax City,Virginia,44345,23027,8492
+27,Douglas,Colorado,43634,293014,103780
+28,Teton,Wyoming,43444,21575,7583
+29,Bergen,New Jersey,43347,912795,335422
+30,Middlesex,Massachusetts,42861,1522533,581120
+31,Monmouth,New Jersey,42749,629735,233909
+32,Summit,Utah,42462,37232,13627
+33,Nassau,New York,42400,1343765,441955
+34,Mineral,Colorado,42255,761,393
+35,Chester,Pennsylvania,42210,503075,184788
+36,Ozaukee,Wisconsin,42041,86708,34108
+37,Clear Creek,Colorado,41716,9048,4024
+38,Santa Clara,California,41513,1812208,609377
+39,Montgomery,Pennsylvania,41472,804621,307488
+40,Williamson,Tennessee,41292,188935,66364
+41,San Miguel,Colorado,40827,7496,3234
+42,Anne Arundel,Maryland,40415,544426,199904
+43,Putnam,New York,40309,99718,34496
+44,Newport,Rhode Island,40293,82545,34774
+45,Delaware County,Ohio,40189,178139,64208
+46,Middlesex,Connecticut,39992,165690,66141
+47,King,Washington,39911,1974567,802606
+48,Fauquier,Virginia,39600,66015,23130
+49,Hamilton,Indiana,39521,282977,103234
+50,Eagle,Colorado,39497,52151,17966
+51,James City County,Virginia,39133,68171,26883
+52,Bristol,Rhode Island,38893,49426,19174
+53,Johnson,Kansas,38827,552947,216304
+54,Clarke,Virginia,38748,14191,5580
+55,Williams,North Dakota,38738,25024,10411
+56,DuPage,Illinois,38570,922803,336028
+57,Poquoson City,Virginia,38444,12117,4591
+58,Rockingham,New Hampshire,38399,296718,116262
+59,Calvert,Maryland,38260,89332,30923
+60,Contra Costa,California,38219,1065794,375855
+61,Queen Anne's,Maryland,38108,48166,17292
+62,Gilpin,Colorado,38022,5477,2504
+63,Talbot,Maryland,38022,37859,16013
+64,Lake,Illinois,38018,702099,241072
+65,Boulder,Colorado,38011,301072,120521
+66,Billings,North Dakota,37972,876,350
+67,Sussex,New Jersey,37949,147924,54746
+68,Collin,Texas,37839,811308,289752
+69,San Juan,Washington,37719,15786,7753
+70,Litchfield,Connecticut,37667,188629,75755
+71,Waukesha,Wisconsin,37577,391200,153422
+72,Juneau,Alaska,37558,31897,12099
+73,Hennepin,Minnesota,37485,1170623,481263
+74,Boone,Indiana,37482,58009,21908
+75,Bucks,Pennsylvania,37466,625977,230366
+76,Mercer,New Jersey,37465,368094,130754
+77,Carver,Minnesota,37457,92770,33486
+78,Broomfield,Colorado,37442,57171,22016
+79,Prince William,Virginia,37401,416668,132442
+80,Charles,Maryland,37277,148957,51247
+81,Albemarle,Virginia,37239,100636,37964
+82,Skagway,Alaska,37139,1080,412
+83,Bristol Bay,Alaska,37024,933,384
+84,Washington County,Rhode Island,37023,126627,49430
+85,Suffolk,New York,36945,1495803,497347
+86,Frederick,Maryland,36917,236668,86337
+87,St. Johns,Florida,36836,197115,75558
+88,Burlington,New Jersey,36835,449964,164979
+89,Fulton,Georgia,36757,948554,368184
+90,Washington County,Minnesota,36706,241315,88947
+91,Stafford,Virginia,36574,131885,42178
+92,Rappahannock,Virginia,36505,7448,3261
+93,Oakland,Michigan,36458,1213406,486332
+94,Collier,Florida,36439,328209,122972
+95,York,Virginia,36373,65762,24071
+96,Hinsdale,Colorado,36365,809,388
+97,Divide,North Dakota,36303,2155,1035
+98,Anchorage,Alaska,36214,295237,105208
+99,Roberts,Texas,36172,1030,374
+100,Union,South Dakota,36167,14575,5758
+101,Carroll,Maryland,36153,167261,59909
+102,Barnstable,Massachusetts,36142,215449,95398
+103,Jefferson,Colorado,36087,540669,219562
+104,Elbert,Colorado,36077,23295,8240
+105,St. Mary's,Maryland,36017,107079,37589
+106,Sublette,Wyoming,35944,10178,3502
+107,Dallas,Iowa,35844,69526,26262
+108,Kendall,Texas,35827,34951,12760
+109,Alameda,California,35763,1535248,545071
+110,Blaine,Idaho,35524,21294,9207
+111,Scott,Minnesota,35467,132774,45630
+112,Harford,Maryland,35425,246664,90708
+113,Fayette,Georgia,35344,107105,37930
+114,Denali,Alaska,35295,2020,716
+115,Plymouth,Massachusetts,35220,497386,179617
+116,Saratoga,New York,35176,221169,88460
+117,Essex,Massachusetts,35167,750808,286008
+118,Platte,Missouri,35143,90842,36781
+119,Union,New Jersey,35089,540568,185483
+120,Placer,California,34886,355924,132709
+121,El Dorado,California,34884,180982,67885
+122,Routt,Colorado,34873,23409,9647
+123,Lincoln,South Dakota,34839,46693,17250
+124,Dakota,Minnesota,34828,402306,154275
+125,Napa,California,34795,137837,49431
+126,St. Louis County,Missouri,34795,999725,403293
+127,Hartford,Connecticut,34698,895827,347874
+128,Rockwall,Texas,34617,81020,26820
+129,Rockland,New York,34591,315069,98326
+130,Forsyth,Georgia,34582,182916,58080
+131,Orange,North Carolina,34465,136057,51403
+132,Geauga,Ohio,34455,93610,34621
+133,Tolland,Connecticut,34392,152366,54327
+134,Hillsborough,New Hampshire,34390,402017,154324
+135,Baltimore County,Maryland,34374,812261,313912
+136,Middlesex,New Jersey,34345,817026,280988
+137,Yakutat,Alaska,34317,607,254
+138,King George,Virginia,34234,24151,8314
+139,Petersburg Census Area,Alaska,34183,3806,1643
+140,Douglas,Nevada,34123,47035,19455
+141,Fort Bend,Texas,34084,608939,191406
+142,Olmsted,Minnesota,34073,146063,57262
+143,Loving,Texas,34068,87,33
+144,Orange,California,34057,3051771,995512
+145,Martin,Florida,34057,147786,59891
+146,Summit,Colorado,34025,28091,11138
+147,Monroe,Florida,33974,74213,28503
+148,Denton,Texas,33855,687857,243394
+149,Campbell,Wyoming,33850,46901,17108
+150,Kent,Rhode Island,33814,165628,68880
+151,Mountrail,North Dakota,33803,8280,3069
+152,Oconee,Georgia,33801,33240,11485
+153,Dunn,North Dakota,33788,3786,1438
+154,New London,Connecticut,33782,274090,107066
+155,Dane,Wisconsin,33712,496762,206982
+156,Midland,Texas,33672,142289,50644
+157,Llano,Texas,33634,19223,8519
+158,Columbia,New York,33613,62674,25280
+159,Dutchess,New York,33594,297385,107830
+160,Oldham,Kentucky,33591,60940,19532
+161,Warren,New Jersey,33555,108150,41463
+162,Hanover,Virginia,33540,100328,36927
+163,Storey,Nevada,33472,3981,1843
+164,Dukes,Massachusetts,33363,16739,5891
+165,Towner,North Dakota,33357,2285,1034
+166,Shelby,Alabama,33313,198366,74144
+167,Chittenden,Vermont,33281,157637,62587
+168,Denver,Colorado,33251,619297,266069
+169,Washtenaw,Michigan,33231,348560,135800
+170,Travis,Texas,33206,1063248,411876
+171,Delaware County,Pennsylvania,33179,559771,204771
+172,Warren,Ohio,33172,215274,76546
+173,Madison,Mississippi,33170,97151,36342
+174,Wake,North Carolina,33166,929214,348627
+175,Grand Isle,Vermont,33159,6984,3023
+176,Henrico,Virginia,33115,311314,123683
+177,McKenzie,North Dakota,33078,7377,2666
+178,Cobb,Georgia,33069,699235,261242
+179,Foster,North Dakota,33063,3355,1555
+180,Madison,Montana,33062,7702,3542
+181,Ouray,Colorado,33015,4475,1943
+182,Comal,Texas,32980,112083,41954
+183,Cape May,New Jersey,32948,96684,42312
+184,Ventura,California,32930,829017,267076
+185,Montgomery,Texas,32911,472162,163462
+186,Burke,North Dakota,32908,2094,1007
+187,Worcester,Maryland,32887,51479,20530
+188,Cumberland,Maine,32880,283046,117359
+189,Burleigh,North Dakota,32876,83906,34703
+190,Cook,Minnesota,32868,5195,2614
+191,Palm Beach,Florida,32858,1339221,526007
+192,Sonoma,California,32835,487469,185660
+193,Suffolk,Massachusetts,32835,735701,288240
+194,Clackamas,Oregon,32781,380532,146527
+195,Greeley,Kansas,32650,1202,493
+196,Hudson,New Jersey,32641,644605,243875
+197,Gloucester,New Jersey,32600,289098,104145
+198,Arapahoe,Colorado,32595,585333,225552
+199,Valdez-Cordova Census Area,Alaska,32579,9682,3424
+200,Chesterfield,Virginia,32572,320430,113637
+201,New Haven,Connecticut,32523,862611,328013
+202,Sitka,Alaska,32521,8945,3554
+203,Beaufort,South Carolina,32503,165354,64417
+204,Botetourt,Virginia,32490,33076,12825
+205,Mecklenburg,North Carolina,32482,947135,366689
+206,New Castle,Delaware,32406,542784,200739
+207,Nevada County,California,32346,98509,40991
+208,Prince George's,Maryland,32344,873481,303441
+209,McHenry,Illinois,32341,308060,108852
+210,Albany,New York,32328,305279,122700
+211,Sarasota,Florida,32313,383094,170555
+212,Santa Fe,New Mexico,32298,145400,61012
+213,Santa Cruz,California,32295,264808,93504
+214,Oliver,North Dakota,32253,1840,753
+215,St. Croix,Wisconsin,32220,84912,32114
+216,Essex,New Jersey,32181,785853,277302
+217,Fairbanks North Star,Alaska,32143,98656,35588
+218,Livingston,Michigan,32129,182402,67691
+219,New Kent,Virginia,32068,18791,6886
+220,Bowman,North Dakota,32045,3168,1354
+221,Richland,Montana,32036,10318,4270
+222,Cavalier,North Dakota,32028,3952,1754
+223,Washington County,Wisconsin,32020,132186,52053
+224,LaMoure,North Dakota,31989,4136,1955
+225,Bottineau,North Dakota,31969,6529,3028
+226,Virginia Beach City,Virginia,31934,442151,164944
+227,Madison,Alabama,31933,339279,132975
+228,Richmond,New York,31823,470223,164609
+229,Cumberland,Pennsylvania,31791,237449,95286
+230,Aleutians West Census Area,Alaska,31790,5538,1033
+231,Dickinson,Iowa,31790,16818,7981
+232,Kitsap,Washington,31769,252687,97622
+233,Mercer,North Dakota,31767,8456,3650
+234,Monroe,Illinois,31758,33181,12506
+235,Roanoke County,Virginia,31728,92824,37928
+236,Barnes,North Dakota,31721,11085,4871
+237,Lane,Kansas,31694,1616,808
+238,Grand,Colorado,31684,14535,5227
+239,Allegheny,Pennsylvania,31593,1226933,526004
+240,Ketchikan Gateway,Alaska,31589,13595,5295
+241,St. Charles,Missouri,31586,365101,135974
+242,Terrell,Texas,31578,837,403
+243,Carroll,New Hampshire,31558,47694,20922
+244,Worcester,Massachusetts,31537,802688,299663
+245,Sioux,Nebraska,31517,1229,553
+246,Park,Colorado,31504,16131,7038
+247,Kent,Maryland,31502,20130,7498
+248,Adams,North Dakota,31502,2328,1101
+249,Harris,Georgia,31482,32267,11426
+250,Leelanau,Michigan,31462,21682,9103
+251,Steele,North Dakota,31455,1976,890
+252,Daniels,Montana,31449,1778,890
+253,Stark,North Dakota,31412,25666,10439
+254,Sheridan,Montana,31378,3473,1612
+255,Spotsylvania,Virginia,31360,124319,41709
+256,Snohomish,Washington,31349,724627,268722
+257,Mathews,Virginia,31342,8943,3856
+258,Merrimack,New Hampshire,31310,146710,56812
+259,Miner,South Dakota,31288,2355,1053
+260,Kendall,Illinois,31276,116366,38075
+261,Kenai Peninsula,Alaska,31256,56163,21720
+262,Powhatan,Virginia,31252,28108,9544
+263,Piatt,Illinois,31190,16620,6546
+264,Renville,North Dakota,31178,2512,1041
+265,Chatham,North Carolina,31175,64886,26017
+266,Grundy,Iowa,31164,12416,5073
+267,Glasscock,Texas,31135,1176,409
+268,Haines,Alaska,31096,2546,1245
+269,Washington County,Oregon,31078,539608,201771
+270,Teller,Colorado,31075,23276,9434
+271,Williamson,Texas,31070,441445,154948
+272,McLean,North Dakota,30992,9163,4021
+273,Butler,Pennsylvania,30957,184535,73213
+274,Columbia,Georgia,30949,128213,43975
+275,Converse,Wyoming,30941,13937,5746
+276,Island,Washington,30941,78806,33096
+277,Stanley,South Dakota,30933,2966,1273
+278,Windsor,Vermont,30932,56416,25024
+279,Woodford,Illinois,30926,38903,14362
+280,Galveston,Texas,30926,296669,110032
+281,Audubon,Iowa,30919,6002,2684
+282,Isle of Wight,Virginia,30903,35373,13560
+283,Fluvanna,Virginia,30881,25860,9462
+284,Larimer,Colorado,30740,305798,121423
+285,Grafton,New Hampshire,30738,89166,35111
+286,Lancaster,Virginia,30737,11303,5182
+287,Medina,Ohio,30707,173252,65499
+288,Parker,Texas,30692,118478,42322
+289,San Diego,California,30668,3138265,1076483
+290,Door,Wisconsin,30657,27826,13459
+291,Anoka,Minnesota,30647,334027,122625
+292,Camden,New Jersey,30592,513512,187941
+293,Slope,North Dakota,30586,738,296
+294,Orange,New York,30583,373902,125317
+295,Indian River,Florida,30532,139356,58038
+296,Middlesex,Virginia,30531,10851,4400
+297,Dare,North Carolina,30529,34289,14624
+298,Cass,North Dakota,30529,154080,65816
+299,Belknap,New Hampshire,30518,60216,25049
+300,Sweetwater,Wyoming,30517,44437,16682
+301,Ocean,New Jersey,30477,578902,221774
+302,Multnomah,Oregon,30475,747641,305939
+303,McLean,Illinois,30460,171240,64016
+304,Polk,Iowa,30442,438307,173164
+305,Ulster,New York,30442,182086,69862
+306,Hodgeman,Kansas,30440,1946,821
+307,Nelson,North Dakota,30432,3101,1474
+308,Jefferson,Montana,30397,11434,4527
+309,Will,Illinois,30377,679688,222652
+310,St. Tammany,Louisiana,30363,236832,87518
+311,Honolulu,Hawaii,30361,964678,309803
+312,Santa Barbara,California,30352,427288,141720
+313,Warren,New York,30351,65584,28081
+314,Hughes,South Dakota,30284,17238,6992
+315,Ness,Kansas,30223,3095,1340
